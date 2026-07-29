@@ -3,6 +3,7 @@
 ## Articles / books / videos :
 
 ### Articles / books / Discords
+* [ALIS JSON-first data-pipeline architecture](https://github.com/fallintodusk/alis/blob/main/docs/data/README.md#data-pipeline-architecture)
 * [Blog with Infos for : Rendering Dependency Graph (RDG)](https://www.mcro.de/c/rdg)
 * [Community WIki](https://ue4community.wiki/)
 * [Game Development & UE4 Programming Guide](https://github.com/ikrima/gamedevguide)
