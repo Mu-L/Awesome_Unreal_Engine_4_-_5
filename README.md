@@ -13,6 +13,7 @@
 * [Learning Unreal Engine (Notes)](https://github.com/ibbles/LearningUnrealEngine)
 * [raywenderlich ue4 tutorials](https://www.raywenderlich.com/unreal-engine)
 * [unreal art optimization](https://unrealartoptimization.github.io/book/)
+* [Unreal Engine editor keyboard shortcuts, reference and drill](https://hkeys.app/apps/unreal-engine)
 
 ### Discords
 * [Asher's Tech Art Chamber](https://discord.gg/5wt856eE)
